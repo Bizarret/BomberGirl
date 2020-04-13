@@ -1,0 +1,34 @@
+{
+  "name": "bombergirl",
+  "version": "1.0.0",
+  "description": "html canvas game bomberman like ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bizarret/BomberGirl.git"
+  },
+  "keywords": [
+    "js",
+    "canvas",
+    "phaserio",
+    "html",
+    "game",
+    "videogame",
+    "bomberman",
+    "bombergirl",
+    "girl",
+    "bomb"
+  ],
+  "author": "Bizarret",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bizarret/BomberGirl/issues"
+  },
+  "homepage": "https://github.com/Bizarret/BomberGirl#readme",
+  "dependencies": {
+    "phaser": "^3.22.0"
+  }
+}
