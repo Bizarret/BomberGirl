@@ -1,0 +1,1 @@
+export const constante = "Hola mundo desde constante";
